@@ -1,8 +1,8 @@
-# leetcode
+# Leetcode
 Notes I take on LeetCode
 
-
-Useful Links:
-https://github.com/jwasham/coding-interview-university
-https://github.com/donnemartin/system-design-primer
+# Maintenance
+- Run `conda list --export > requirements.txt` to update requirements.txt
+- Run `conda create --name <env_name> --file requirements.txt` to build anaconda env from requirements.txt
+- 
 
